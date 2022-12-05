@@ -19,8 +19,8 @@
 <center><img src="https://portal.ucol.mx/content/micrositios/188/image/Escudo2021/Frase/Frase.png" width="250"></center>
 
 <H6>
-___
+
 <H1>Unidad III: Programación Funcional</H1>
----
+
 <H3>Problemas resueltos en clase con Elixir</H3>
-___
+
